@@ -1,3 +1,4 @@
+![Screenshot](screenshot.png)
 HackNet (HackNet Is Not A Video Game)
 HackNet is a software application that allows users to interact with the internet via a console interface. It provides various commands for accessing and managing internet-related information, such as displaying the user's IP address, WiFi details, and more. With features like file downloads, searches, and custom background colors, HackNet offers a simple yet powerful way to engage with the internet through a command-line interface.
 
